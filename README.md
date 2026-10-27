@@ -1,3 +1,3 @@
-# Hyper-RefAVS
+# Hyperbolic-AVS & RefAVS
 
-## Coming Soon
+## Coming Soon — Upon Publication of the Full Paper Series.
